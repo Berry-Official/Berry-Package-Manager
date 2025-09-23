@@ -1,4 +1,4 @@
-**The Berry Package Manager**
+`**The Berry Package Manager**
 
 Berry is an open-source package manager designed to run packages
 (apps) inside the Berry CLI. It is useful when you want to run
@@ -10,3 +10,4 @@ Regards,
 
 TeamWave's Berry Branch
 Copyright © 2025 Berry and Wave. All Rights Reserved!
+`
